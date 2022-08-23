@@ -1,0 +1,12 @@
+win32serviceutil
+win32service
+win32event
+servicemanager
+socket
+logging
+sys
+os 
+time
+shutil
+pandas 
+glob
